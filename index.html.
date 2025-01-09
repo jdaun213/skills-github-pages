@@ -6,6 +6,7 @@
   <meta name="description" content="Your Page Description Here">
   <title>Your Page Title</title>
   <link rel="stylesheet" href="style.css"> <!-- Link to CSS file -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
